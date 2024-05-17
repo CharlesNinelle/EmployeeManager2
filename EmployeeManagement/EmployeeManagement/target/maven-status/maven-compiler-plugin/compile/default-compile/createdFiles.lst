@@ -1,0 +1,6 @@
+be\intec\employeemanagment\Repository\EmployeeRepository.class
+be\intec\employeemanagment\Service\EmployeeService.class
+be\intec\employeemanagment\EmployeeManagementApplication.class
+be\intec\employeemanagment\Service\EmployeeServiceImpl.class
+be\intec\employeemanagment\Model\Employee.class
+be\intec\employeemanagment\Controller\EmployeeController.class
